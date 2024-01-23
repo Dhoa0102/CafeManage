@@ -1,0 +1,164 @@
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+C:\Users\DINH HOA\source\repos\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\ICT\Downloads\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.SuggestedBindingRedirects.cache
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+D:\BasicCoffeeShop\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+C:\Users\ICT\Documents\Zalo Received Files\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fBaristacs.resources
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.SuggestedBindingRedirects.cache
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fBaristacs.resources
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+D:\kkkkkkkkkk\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.SuggestedBindingRedirects.cache
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fBaristacs.resources
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+D:\QuanCF\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.SuggestedBindingRedirects.cache
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fBaristacs.resources
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+D:\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fBaristacs.resources
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+C:\Users\ICT\OneDrive\Desktop\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fBaristacs.resources
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+D:\OOP\kkkkkkkkkk (1)\kkkkkkkkkk\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.FeedbackForm.resources
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fBaristacs.resources
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.FeedbackForm.resources
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+D:\OOP\kkkkkkkkkk (1)\6_Nguyen_Dinh_Hoa_Le_Thai_Hung\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe.config
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.exe
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\BasicCoffeeShop.pdb
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\bin\Debug\Siticone.Desktop.UI.dll
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.AssemblyReference.cache
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fBaristacs.resources
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.FeedbackForm.resources
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fManager.resources
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fLogin.resources
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.fTableList.resources
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.Properties.Resources.resources
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.GenerateResource.cache
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CoreCompileInputs.cache
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.csproj.CopyComplete
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.exe
+D:\OOP\kkkkkkkkkk (1)\6_NguyenDinhHoa_CoffeeShopManagement\BasicCoffeeShop\BasicCoffeeShop\obj\Debug\BasicCoffeeShop.pdb
